@@ -1,10 +1,24 @@
 ---
 layout: default
-title: Startseite
+title: MatheChecks
+description: "Entdecke allen Themen der Mathematik: interaktiv und kostenlos."
 ---
 
-<p>Willkommen bei MatheChecks – eine Sammlung interaktiver Visualisierungen.</p>
-<ul>
-  <li><a href="/baumdiagramm.html">Baumdiagramm</a></li>
-  <li><a href="/histogramm.html">Histogramm der Binomialverteilung</a></li>
-</ul>
+
+<h2>Schnellzugriff</h2>
+<div class="container" style="gap: 20px">
+  <a href="https://www.mathechecks.de/Glücksrad.html" class="navi"
+    >Glücksrad</a
+  >
+  <a
+    href="https://www.mathechecks.de/baumdiagramme-vierfeldertafeln.html"
+    class="navi stochastik"
+    >Baumdiagramme und Vierfeldertafeln</a
+  >
+  <a
+    href="https://www.mathechecks.de/binomialverteillung-histogramme.html"
+    class="navi stochastik"
+    >Histogramme der Binomialverteilung</a
+  >
+</div>
+
